@@ -1,0 +1,4 @@
+pandas is an open source data analysis library written in python.
+it leverages the power and speed of numpy to make data analysis and preprocessing 
+easy for data scientists.
+it provides rich and highly robust data operations.
